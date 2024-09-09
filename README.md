@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Freetooff
-- 👀 I’m interested in gyats
-- 🌱 I’m currently learning français
+- 👀 I’m interested in ninha
+- 🌱 I’m currently learning how to cook
 - 💞️ I’m looking to collaborate on jdt
-- 📫 How to reach me freetooff@gmail.com
+- 📫 How to reach me axelandrieux.78@gmail.com
 
 <!---
 Freetooff/Freetooff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
